@@ -1,7 +1,7 @@
 # Fair-Data-Generation-SLR
 We collect 76 papers and summarize their datasets, models (GAN, VAE, etc.), sensitive attributes, domains, and fairness/utility metrics.
 
-This repository contains the resources and summary tables for our **systematic literature review (SLR)** on **fair synthetic data generation and fairness-aware data augmentation**.
+This repository contains the resources and summary tables for our **systematic literature review (SLR)** on **fair synthetic data generation**.
 
 We collect and analyse **76 papers (2018–2025)** that use **generative models or synthetic data** to improve **algorithmic fairness** across different data types (tabular, image, text, graph) and domains (finance, healthcare, criminal justice, NLP, vision, recommender systems, etc.).   
 
