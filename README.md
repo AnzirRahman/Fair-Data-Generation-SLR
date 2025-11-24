@@ -37,14 +37,5 @@ The table also records which **fairness metrics** each paper uses (e.g., Statist
 ---
 
 ## ✅ How to Use This Repository
-
-- **For researchers:**  
   - Quickly filter papers by **year**, **domain**, **model type** (GAN/VAE/diffusion/causal/augmentation), or **fairness metric** using the Excel or CSV version of the table.  
   - Identify research gaps (e.g., under-explored domains, metrics, or data types).
-
-- **For practitioners:**  
-  - Find which **fair synthetic data methods** have been used for scenarios similar to your application (e.g., credit scoring, recidivism prediction, medical imaging).  
-  - Check which **sensitive attributes** (gender, race, age, etc.) and fairness metrics are commonly used in the literature.
-
-- **For students:**  
-  - Use the table as a starting point for thesis topics, reproductions, or extensions in fairness-aware machine learning and synthetic data.
